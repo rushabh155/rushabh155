@@ -109,19 +109,41 @@ caching and image optimization
 
 ## 🔧 Tools & Platforms
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,swagger,vscode,eclipse" />
-</p>
+<table>
+<tr>
 
-<p align="left">
-  <b>Git</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>GitHub</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Postman</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Swagger</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>VS Code</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Eclipse</b>
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="50"><br>
+<b>Git</b>
+</td>
 
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="50"><br>
+<b>GitHub</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="50"><br>
+<b>Postman</b>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="50"><br>
+<b>Swagger</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"><br>
+<b>VS Code</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=eclipse" width="50"><br>
+<b>Eclipse</b>
+</td>
+
+</tr>
+</table>
 
 ---
 

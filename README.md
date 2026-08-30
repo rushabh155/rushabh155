@@ -35,37 +35,82 @@ caching and image optimization
 
 ## 💻 Programming Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,php" />
-</p>
+<table>
+<tr>
 
-<p align="left">
-  <b>Java</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>JavaScript</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>TypeScript</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>PHP</b>
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="55"><br>
+<b>Java</b>
+</td>
 
-**SQL**
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="55"><br>
+<b>JavaScript</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" width="55"><br>
+<b>TypeScript</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=php" width="55"><br>
+<b>PHP</b>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000" width="55"><br>
+<b>SQL</b>
+</td>
+
+</tr>
+</table>
 
 
 ---
 
 ## 🎨 Frontend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css,bootstrap,jquery" />
-</p>
+<table>
+<tr>
 
-<p align="left">
-  <b>React.js</b>&nbsp;&nbsp;&nbsp;
-  <b>Redux</b>&nbsp;&nbsp;&nbsp;
-  <b>Tailwind CSS</b>&nbsp;&nbsp;&nbsp;
-  <b>HTML5</b>&nbsp;&nbsp;&nbsp;
-  <b>CSS3</b>&nbsp;&nbsp;&nbsp;
-  <b>Bootstrap</b>&nbsp;&nbsp;&nbsp;
-  <b>jQuery</b>
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="55"><br>
+<b>React.js</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redux" width="55"><br>
+<b>Redux</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"><br>
+<b>Tailwind CSS</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="55"><br>
+<b>HTML5</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="55"><br>
+<b>CSS3</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55"><br>
+<b>Bootstrap</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=jquery" width="55"><br>
+<b>jQuery</b>
+</td>
+
+</tr>
+</table>
 
 **AJAX**
 
@@ -74,18 +119,41 @@ caching and image optimization
 
 ## ⚙️ Backend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring,hibernate" />
-</p>
+<table>
+<tr>
 
-<p align="left">
-  <b>Node.js</b>&nbsp;&nbsp;&nbsp;
-  <b>Express.js</b>&nbsp;&nbsp;&nbsp;
-  <b>NestJS</b>&nbsp;&nbsp;&nbsp;
-  <b>Laravel</b>&nbsp;&nbsp;&nbsp;
-  <b>Spring Boot</b>&nbsp;&nbsp;&nbsp;
-  <b>Hibernate ORM</b>
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"><br>
+<b>Node.js</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="55"><br>
+<b>Express.js</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nestjs" width="55"><br>
+<b>NestJS</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=laravel" width="55"><br>
+<b>Laravel</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=spring" width="55"><br>
+<b>Spring Boot</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=hibernate" width="55"><br>
+<b>Hibernate ORM</b>
+</td>
+
+</tr>
+</table>
 
 **Spring Core** • **J2EE** • **Servlet** • **JSP** • **JDBC**
 
@@ -94,15 +162,26 @@ caching and image optimization
 
 ## 🗄️ Databases
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>
+<table>
+<tr>
 
-<p align="left">
-  <b>MySQL</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>MongoDB</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>PostgreSQL</b>
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"><br>
+<b>MySQL</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"><br>
+<b>MongoDB</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgresql" width="55"><br>
+<b>PostgreSQL</b>
+</td>
+
+</tr>
+</table>
 
 
 ---
@@ -113,58 +192,70 @@ caching and image optimization
 <tr>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="50"><br>
+<img src="https://skillicons.dev/icons?i=git" width="55"><br>
 <b>Git</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="50"><br>
+<img src="https://skillicons.dev/icons?i=github" width="55"><br>
 <b>GitHub</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=postman" width="50"><br>
+<img src="https://skillicons.dev/icons?i=postman" width="55"><br>
 <b>Postman</b>
 </td>
 
 <td align="center">
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="50"><br>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="55"><br>
 <b>Swagger</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="50"><br>
+<img src="https://skillicons.dev/icons?i=vscode" width="55"><br>
 <b>VS Code</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=eclipse" width="50"><br>
+<img src="https://skillicons.dev/icons?i=eclipse" width="55"><br>
 <b>Eclipse</b>
 </td>
 
 </tr>
 </table>
 
+
 ---
 
 ## 🤖 AI & Developer Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-</p>
+<table>
+<tr>
 
-<p align="left">
-  <b>ChatGPT</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Claude</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Gemini</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Cursor</b>
-</p>
+<td align="center">
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" height="55"><br>
+<b>ChatGPT</b>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="55"><br>
+<b>Claude</b>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" height="55"><br>
+<b>Gemini</b>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="55"><br>
+<b>Cursor</b>
+</td>
+
+</tr>
+</table>
 
 **Claude Code** • **Antigravity** • **Kiro** • **Generative AI**
-
 
 ---
 

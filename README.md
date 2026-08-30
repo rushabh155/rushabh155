@@ -128,26 +128,6 @@ technologies and MySQL database integration.
 
 ---
 
-## 🏆 Achievements
-
-🏆 **Star Performer of the Month** — Tekdi Technologies  
-🥇 **1st Rank** — Mechanical Engineering Department  
-🎓 **INSPIRE Scholarship Recipient**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushabh155&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushabh155&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p>

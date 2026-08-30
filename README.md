@@ -28,6 +28,7 @@ caching and image optimization
 - 🤖 Exploring and using **Generative AI and AI-powered developer tools**
 - 📚 Always learning new technologies and improving my development skills
 
+
 ---
 
 # 🛠️ Tech Stack
@@ -38,7 +39,14 @@ caching and image optimization
   <img src="https://skillicons.dev/icons?i=java,js,ts,php" />
 </p>
 
-**Also:** SQL
+<p align="left">
+  <b>Java</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>JavaScript</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>TypeScript</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>PHP</b>
+</p>
+
+**SQL**
 
 
 ---
@@ -49,6 +57,18 @@ caching and image optimization
   <img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css,bootstrap,jquery" />
 </p>
 
+<p align="left">
+  <b>React.js</b>&nbsp;&nbsp;&nbsp;
+  <b>Redux</b>&nbsp;&nbsp;&nbsp;
+  <b>Tailwind CSS</b>&nbsp;&nbsp;&nbsp;
+  <b>HTML5</b>&nbsp;&nbsp;&nbsp;
+  <b>CSS3</b>&nbsp;&nbsp;&nbsp;
+  <b>Bootstrap</b>&nbsp;&nbsp;&nbsp;
+  <b>jQuery</b>
+</p>
+
+**AJAX**
+
 
 ---
 
@@ -58,7 +78,16 @@ caching and image optimization
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring,hibernate" />
 </p>
 
-**Also:** Spring Core • J2EE • Servlet • JSP • JDBC
+<p align="left">
+  <b>Node.js</b>&nbsp;&nbsp;&nbsp;
+  <b>Express.js</b>&nbsp;&nbsp;&nbsp;
+  <b>NestJS</b>&nbsp;&nbsp;&nbsp;
+  <b>Laravel</b>&nbsp;&nbsp;&nbsp;
+  <b>Spring Boot</b>&nbsp;&nbsp;&nbsp;
+  <b>Hibernate ORM</b>
+</p>
+
+**Spring Core** • **J2EE** • **Servlet** • **JSP** • **JDBC**
 
 
 ---
@@ -67,6 +96,12 @@ caching and image optimization
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+<p align="left">
+  <b>MySQL</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>MongoDB</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>PostgreSQL</b>
 </p>
 
 
@@ -78,26 +113,39 @@ caching and image optimization
   <img src="https://skillicons.dev/icons?i=git,github,postman,swagger,vscode,eclipse" />
 </p>
 
+<p align="left">
+  <b>Git</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>GitHub</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Postman</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Swagger</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>VS Code</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Eclipse</b>
+</p>
+
 
 ---
 
 ## 🤖 AI & Developer Tools
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 </p>
 
-**Also:** Claude Code • Antigravity • Kiro • Generative AI
+<p align="left">
+  <b>ChatGPT</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Claude</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Gemini</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Cursor</b>
+</p>
+
+**Claude Code** • **Antigravity** • **Kiro** • **Generative AI**
+
 
 ---
+
 
 ## 🚀 Featured Projects
 

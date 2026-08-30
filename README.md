@@ -59,7 +59,7 @@ caching and image optimization
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000" width="55"><br>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="55"><br>
 <b>SQL</b>
 </td>
 
